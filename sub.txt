@@ -1,4 +1,4 @@
-https://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-2.csv
-https://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-3.csv
-https://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-4.csv
-https://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-1.csv
+vless://a87a868d-6ff9-40e3-8ecc-38988707e02b@199.232.8.123:80?path=%2FymM_v03KT7tqxB-n%3Fed%3D2048&security=none&encryption=none&alpn=h2,http/1.1&host=red.pooriashop.com&fp=randomized&type=ws&sni=mazandaran.pooriashop.ir#pooria_red+80+fastly
+vless://a87a868d-6ff9-40e3-8ecc-38988707e02b@199.232.8.123:443?path=%2FymM_v03KT7tqxB-n%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=red.pooriashop.com&fp=randomized&type=ws&sni=red.pooriashop.com#pooria_red+443+fastly
+vless://a87a868d-6ff9-40e3-8ecc-38988707e02b@www.speedtest.net:80?path=%2FymM_v03KT7tqxB-n%3Fed%3D2048&security=none&encryption=none&alpn=h2,http/1.1&host=mazandaran.pooriashop.ir&fp=randomized&type=ws&sni=mazandaran.pooriashop.ir#pooria_red+80
+vless://a87a868d-6ff9-40e3-8ecc-38988707e02b@www.speedtest.net:443?path=%2FymM_v03KT7tqxB-n%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=mazandaran.pooriashop.ir&fp=randomized&type=ws&sni=mazandaran.pooriashop.ir#pooria_red+443
